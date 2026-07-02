@@ -107,15 +107,23 @@ Ideas for new features are encouraged, such as:
 
 ---
 
+## 👧 Author
+```
+    Auther Name:     Trupti Y. Sabale  
+    Created:         10-Dec-2025
+    Updated:         08-Jan-2026
+```
+
+---
+
 ## 📜 License
 This project is for **personal/educational use only**.  
 © 2025 Glassmorphism Traffic Light Project
 
 ---
 
-👧 Author
----
-    Auther Name:     Trupti Y. Sabale  
-    Created:         10-Dec-2025
-    Updated:         08-Jan-2026
-
+## All the best! 🥇
+<p align="left">
+  <img src="https://img.shields.io/badge/BUILT_WITH-000000?style=for-the-badge&logoColor=white" height="60">
+  <img src="https://img.shields.io/badge/❤-000000?style=for-the-badge&logoColor=white" height="60">
+</p>
